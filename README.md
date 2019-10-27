@@ -1,6 +1,6 @@
 ># Inter Process Communication - Pipes
 >
->A project of the lesson Operating Systems. (Unix) 1nd Bachelor at EPHEC 
+>A project of the lesson Operating Systems. (Unix) 1st Bachelor at EPHEC 
 
 ## Built With
 
