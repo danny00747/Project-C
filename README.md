@@ -6,7 +6,7 @@
 
 * [IntelliJ IDEA Community Edition](https://www.jetbrains.com/clion/) - A cross-platform IDE for C and C++
 
-# #Programming Language & licence
+## #Programming Language & licence
 
 C
 
